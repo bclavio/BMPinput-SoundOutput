@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <FOLDER dir="sounds\">
+
+        <SOUND file="intro.wav" category="intro" />
+
+        <SOUND file="Footsteps\step_1.wav" category="footstep" />    
+        <SOUND file="Footsteps\step_2.wav" category="footstep" />    
+        <SOUND file="Footsteps\step_3.wav" category="footstep" />
+        <SOUND file="Footsteps\step_4.wav" category="footstep" />
+
+        <SOUND file="Birds\birds_startle_flap.wav" factor="12" />
+        <SOUND file="Birds\crows.wav" factor="10" />
+        <SOUND file="Monsters\creature_growling.wav" factor="12" />
+        <SOUND file="Monsters\creature_growling_1.wav" factor="16" />
+        <SOUND file="Monsters\effect_crows_slowed.wav" factor="15" />
+        <SOUND file="Monsters\manticore.wav" factor="11" />
+        <SOUND file="Monsters\monster_scream.wav" factor="14" />
+        <SOUND file="Dogs\dog_barking_1.wav" factor="7" />
+        <SOUND file="Dogs\dog_barking_2.wav" factor="10" />
+        <SOUND file="Dogs\dog_barking_3.wav" factor="10" />
+        <SOUND file="Dogs\dog_growling_1.wav" factor="10" />
+        <SOUND file="Dogs\dog_in_destance.wav" factor="8" />
+        <SOUND file="Dogs\dogs_stretched_howl.wav" factor="10" />
+        <SOUND file="Hunter\shotgun.wav" factor="7" />
+        <SOUND file="Noise\noise_baaly_mid.wav" factor="17" />
+        <SOUND file="Noise\noise_drone_mid.wav" factor="17" />
+        <SOUND file="Noise\noise_girl_mid.wav" factor="15" />
+        <SOUND file="Noise\noise_girl_long.wav" factor="22" />
+        <SOUND file="Noise\noise_panicscare.wav" factor="11" />
+        <SOUND file="Noise\noise_suspense_1.wav" factor="12" />
+        <SOUND file="Noise\panic_scare.wav" factor="11" />
+
+    </FOLDER>
+</root>
